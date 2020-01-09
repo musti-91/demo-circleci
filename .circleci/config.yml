@@ -15,5 +15,9 @@ jobs:
       # - image: circleci/mongo:3.4.4
 
     steps:
-      - run: echo "hello world!"
-      
+      - run: echo "Start running Test"
+      - run: echo "-------------------------------------------------"
+      - run: yarn test
+      - run: echo "Start running Build"
+      - run: echo "-------------------------------------------------"
+      - run: yarn build
