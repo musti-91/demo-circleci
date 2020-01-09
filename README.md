@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/musti-91/demo-circleci.svg?style=svg)](https://circleci.com/gh/circleci/demo-circleci)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
