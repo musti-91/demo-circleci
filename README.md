@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/musti-91/demo-circleci.svg?style=svg)](https://circleci.com/gh/circleci/demo-circleci)
-
+[![Build Status](https://travis-ci.org/musti-91/demo-circleci.svg?branch=master)](https://travis-ci.org/musti-91/demo-circleci)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
