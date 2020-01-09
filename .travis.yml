@@ -1,0 +1,10 @@
+language: node_js
+jobs:
+  include:
+    - stage: install
+      script: yarn install
+    - stage: test
+      script: yarn test
+
+    - stage: build
+      script: yarn build
